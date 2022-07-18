@@ -1,0 +1,26 @@
+D:\lab\School ManageMent System\School ManageMent System\bin\Debug\net6.0\appsettings.Development.json
+D:\lab\School ManageMent System\School ManageMent System\bin\Debug\net6.0\appsettings.json
+D:\lab\School ManageMent System\School ManageMent System\bin\Debug\net6.0\School ManageMent System.staticwebassets.runtime.json
+D:\lab\School ManageMent System\School ManageMent System\bin\Debug\net6.0\School ManageMent System.exe
+D:\lab\School ManageMent System\School ManageMent System\bin\Debug\net6.0\School ManageMent System.deps.json
+D:\lab\School ManageMent System\School ManageMent System\bin\Debug\net6.0\School ManageMent System.runtimeconfig.json
+D:\lab\School ManageMent System\School ManageMent System\bin\Debug\net6.0\School ManageMent System.dll
+D:\lab\School ManageMent System\School ManageMent System\bin\Debug\net6.0\School ManageMent System.pdb
+D:\lab\School ManageMent System\School ManageMent System\obj\Debug\net6.0\School ManageMent System.csproj.AssemblyReference.cache
+D:\lab\School ManageMent System\School ManageMent System\obj\Debug\net6.0\School ManageMent System.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab\School ManageMent System\School ManageMent System\obj\Debug\net6.0\School ManageMent System.AssemblyInfoInputs.cache
+D:\lab\School ManageMent System\School ManageMent System\obj\Debug\net6.0\School ManageMent System.AssemblyInfo.cs
+D:\lab\School ManageMent System\School ManageMent System\obj\Debug\net6.0\School ManageMent System.csproj.CoreCompileInputs.cache
+D:\lab\School ManageMent System\School ManageMent System\obj\Debug\net6.0\School ManageMent System.MvcApplicationPartsAssemblyInfo.cache
+D:\lab\School ManageMent System\School ManageMent System\obj\Debug\net6.0\School ManageMent System.RazorAssemblyInfo.cache
+D:\lab\School ManageMent System\School ManageMent System\obj\Debug\net6.0\School ManageMent System.RazorAssemblyInfo.cs
+D:\lab\School ManageMent System\School ManageMent System\obj\Debug\net6.0\staticwebassets.build.json
+D:\lab\School ManageMent System\School ManageMent System\obj\Debug\net6.0\staticwebassets.development.json
+D:\lab\School ManageMent System\School ManageMent System\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\lab\School ManageMent System\School ManageMent System\obj\Debug\net6.0\scopedcss\bundle\School ManageMent System.styles.css
+D:\lab\School ManageMent System\School ManageMent System\obj\Debug\net6.0\scopedcss\projectbundle\School ManageMent System.bundle.scp.css
+D:\lab\School ManageMent System\School ManageMent System\obj\Debug\net6.0\School ManageMent System.dll
+D:\lab\School ManageMent System\School ManageMent System\obj\Debug\net6.0\refint\School ManageMent System.dll
+D:\lab\School ManageMent System\School ManageMent System\obj\Debug\net6.0\School ManageMent System.pdb
+D:\lab\School ManageMent System\School ManageMent System\obj\Debug\net6.0\School ManageMent System.genruntimeconfig.cache
+D:\lab\School ManageMent System\School ManageMent System\obj\Debug\net6.0\ref\School ManageMent System.dll

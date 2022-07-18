@@ -1,0 +1,64 @@
+﻿@model IEnumerable<SchoolManageMentSystem.Models.AppointmentModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Details)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Schedule)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GuardianId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DepartmentId)
+            </th>
+             <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Details)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Schedule)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GuardianId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DepartmentId)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+               <a href="Appointment/Edit?Id=@item.Id">Edit</a>
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                <a href="Appointment/Delete?Id=@item.Id">Delete</a>
+        </tr>
+}
+    </tbody>
+</table>
